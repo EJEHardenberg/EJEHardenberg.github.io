@@ -3025,6 +3025,12 @@ Eggs and bacon for breakfast, then a good burger for lunch/dinner.
 Some trail mix and an apple for breakfast, then for lunch I had Wendys
 and for dinner a fried rice bowl.
 
+### Day 496 
+
+Omellette this morning for breakfast, than didn't really have lunch
+though I had a piece of bread. Then for dinner I had the last of my
+pizza rolls.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
