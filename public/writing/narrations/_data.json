@@ -1,4 +1,9 @@
 {
+	"fall" : {
+		"title" : "The Fall",
+		"date" : "2017-10-28",
+		"freq" : "monthly"
+	},
 	"directions" : {
 		"title" : "Directions",
 		"date" : "2017-05-14",
