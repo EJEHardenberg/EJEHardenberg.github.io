@@ -3046,6 +3046,11 @@ Breakfast sandwich for brunch, then a big lasagna-ish noodle with cheese
 on it for a late lunch. Then for dinner I had pizza and chips because I
 threw a halloween party.
 
+### Day 500
+
+Didn't really eat much besides leftover chips and pizza garlic bread and
+just laid around the house all day.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
