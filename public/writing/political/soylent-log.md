@@ -3040,6 +3040,12 @@ Soylent for lunch today then for dinner I had some chinese food.
 Soylent for lunch today then for dinner I had a couple handfuls of trail
 mix and some leftover toast.
 
+### Day 499
+
+Breakfast sandwich for brunch, then a big lasagna-ish noodle with cheese
+on it for a late lunch. Then for dinner I had pizza and chips because I
+threw a halloween party.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
