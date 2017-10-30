@@ -3051,6 +3051,11 @@ threw a halloween party.
 Didn't really eat much besides leftover chips and pizza garlic bread and
 just laid around the house all day.
 
+### Day 501 
+
+Had some tomato's from the garden for breakfast and then for dinner I
+had some chinese food while I did some repairs on my costume.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
