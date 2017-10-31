@@ -3056,6 +3056,11 @@ just laid around the house all day.
 Had some tomato's from the garden for breakfast and then for dinner I
 had some chinese food while I did some repairs on my costume.
 
+### Day 502 
+
+Soylent for lunch and for dinner I had panera. It was rainy so it was a
+really good soup day.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
