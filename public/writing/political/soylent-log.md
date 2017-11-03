@@ -3066,6 +3066,11 @@ really good soup day.
 Soylent for lunch and then for dinner I had some cheese and cauliflower
 (sp?), which was pretty light.
 
+### Day 504 
+
+Soylent for a late lunch and then for dinner I had ramen with some
+friends.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
