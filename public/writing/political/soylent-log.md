@@ -3085,6 +3085,11 @@ Didn't really eat much today at all, but I had a dinner of dominoes.
 Ate the rest of my leftover dominoes today, and had some candy while out
 watching the new Thor movie.
 
+### Day 508
+
+split pea soup for lunch, then had sashimi and some tamago sushi for
+dinner. So good!
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
