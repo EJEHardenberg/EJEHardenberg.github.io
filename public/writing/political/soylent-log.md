@@ -3090,6 +3090,11 @@ watching the new Thor movie.
 split pea soup for lunch, then had sashimi and some tamago sushi for
 dinner. So good!
 
+### Day 509 
+
+Soylent for lunch today and then for dinner, five guys because I had to
+go out to buy shampoo anyway.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
