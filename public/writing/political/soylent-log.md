@@ -3095,6 +3095,11 @@ dinner. So good!
 Soylent for lunch today and then for dinner, five guys because I had to
 go out to buy shampoo anyway.
 
+### Day 510 
+
+Soylent for lunch and then for dinner I had a really good mac n cheese
+with pulled pork, carrots, and an apple chutney thing. Super tasty.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
