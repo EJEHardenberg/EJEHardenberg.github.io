@@ -3100,6 +3100,11 @@ go out to buy shampoo anyway.
 Soylent for lunch and then for dinner I had a really good mac n cheese
 with pulled pork, carrots, and an apple chutney thing. Super tasty.
 
+### Day 511 
+
+Soylent for lunch and then for dinner I had a five guys burger because
+my friend was going out and I tagged along.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
