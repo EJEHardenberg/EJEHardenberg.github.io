@@ -3110,6 +3110,10 @@ my friend was going out and I tagged along.
 Skipped the soylent for lunch today because work provided some food.
 Then for dinner I had a taco salad bowl in a shell which was good.
 
+### Day 513 
+
+Had some split pea soup for dinner. Ate some food at work for lunch.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
