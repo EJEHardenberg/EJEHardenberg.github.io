@@ -3114,6 +3114,11 @@ Then for dinner I had a taco salad bowl in a shell which was good.
 
 Had some split pea soup for dinner. Ate some food at work for lunch.
 
+### Day 514 
+
+Had a coupon for pizza so I got that along with some garlic knots. It
+was good, so I had that for lunch and dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
