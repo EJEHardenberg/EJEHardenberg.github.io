@@ -3119,6 +3119,12 @@ Had some split pea soup for dinner. Ate some food at work for lunch.
 Had a coupon for pizza so I got that along with some garlic knots. It
 was good, so I had that for lunch and dinner.
 
+### Day 515 
+
+Ate leftover pizza for breakfast/lunch and then for dinner I was out
+with a friend I hadn't seen in a while and I got some mozzarella sticks
+and a spicy chicken sandwich.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
