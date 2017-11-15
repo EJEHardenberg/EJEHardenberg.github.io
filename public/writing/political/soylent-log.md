@@ -3125,7 +3125,11 @@ Ate leftover pizza for breakfast/lunch and then for dinner I was out
 with a friend I hadn't seen in a while and I got some mozzarella sticks
 and a spicy chicken sandwich.
 
-### Day 516 
+### Day 516
+
+Soylent for lunch, then for dinner I had Soylent.
+
+### Day 517 
 
 Soylent for lunch, then for dinner I had chinese food. Dumplings and a
 vegi-delight with white rice. Very tasty.
