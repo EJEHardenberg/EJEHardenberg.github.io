@@ -3134,6 +3134,10 @@ Soylent for lunch, then for dinner I had Soylent.
 Soylent for lunch, then for dinner I had chinese food. Dumplings and a
 vegi-delight with white rice. Very tasty.
 
+### Day 518
+
+Trivia tonight, soylent for lunch and then some pub food for dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
