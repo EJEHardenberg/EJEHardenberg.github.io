@@ -3144,6 +3144,11 @@ Had diner food in the morning to treat the friend bringing me to the
 airport. For lunch I had Sashimi and a bento in the airport, then for
 dinner I had Ruby Tuesdays, a good steak.
 
+### Day 520 
+
+Saw justice league today! Then had Sashimi at an asian place which was
+tasty for lunch/dinner ish.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
