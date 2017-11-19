@@ -3142,12 +3142,19 @@ Trivia tonight, soylent for lunch and then some pub food for dinner.
 
 Had diner food in the morning to treat the friend bringing me to the
 airport. For lunch I had Sashimi and a bento in the airport, then for
-dinner I had Ruby Tuesdays, a good steak.
+dinner I had Ruby Tuesdays, a good steak. I am now on vacation, so no
+soylent for the next week or so.
 
 ### Day 520 
 
 Saw justice league today! Then had Sashimi at an asian place which was
 tasty for lunch/dinner ish.
+
+### Day 521
+
+Celebrated thanksgiving today (a few days before the actual event for
+logistical reasons) and had cheesecake, turkey, ham, and all sorts of
+goodies.
 
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
