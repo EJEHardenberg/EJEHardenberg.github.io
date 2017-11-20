@@ -3156,6 +3156,11 @@ Celebrated thanksgiving today (a few days before the actual event for
 logistical reasons) and had cheesecake, turkey, ham, and all sorts of
 goodies.
 
+### Day 522 
+
+Had "Taco Mac" today which was pretty good. Then for dinner I had some
+chicken thing my sister made.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
