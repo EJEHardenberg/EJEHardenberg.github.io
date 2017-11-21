@@ -3161,6 +3161,11 @@ goodies.
 Had "Taco Mac" today which was pretty good. Then for dinner I had some
 chicken thing my sister made.
 
+### Day 523
+
+Had ramen for lunch with a friend and then for dinner had some fast
+food.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
