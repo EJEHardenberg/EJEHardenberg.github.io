@@ -3166,6 +3166,11 @@ chicken thing my sister made.
 Had ramen for lunch with a friend and then for dinner had some fast
 food.
 
+### Day 524 
+
+Had Ihop for breakfast, then for dinner later on I had pub food at an
+O'Charlies and that was good.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
