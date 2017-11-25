@@ -3180,6 +3180,12 @@ the hobbit trilogy.
 
 Had longhorn for lunch today, then for dinner had chicken burgers.
 
+### Day 527 
+
+Had a hot pocket for breakfast, then for dinner had taco bell and got to
+try the rolled chicken tacos. Which are basically just taquitoes. But
+since I love those, this was good.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
