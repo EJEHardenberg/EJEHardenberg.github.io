@@ -3192,6 +3192,12 @@ Breakfast sandwich for breakfast, then for lunch had wings and chicken
 tenders + fries. Then for dinner I had a "Detroit" style sandwich in the
 airport.
 
+### Day 529
+
+Soylent for a late lunch, and some chocolate and leftover airplane
+biscuits for breakfast. For dinner I had pizza.
+
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
