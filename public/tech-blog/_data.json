@@ -865,5 +865,11 @@
 		"description" : "Did you know that if only optional fields are sent in a play form, that it makes all other fields required? Here's how to deal with it!",
 		"date" : "2017-06-30",
 		"keywords" : "play!, circe, scala, helpers, forms, optional, mapping, FormError required"
+	},
+	"aws-connection-pool-future-sequence-danger" : {
+		"title" : "Future.sequence starving AWS's connection pool",
+		"description" : "Ran into a small concurrency problem today at work. Here's a nice thing to keep in mind when working with AWS wrappers and scala Futures",
+		"date" : "2017-11-29",
+		"keywords" : "play!, scala, future, Future.sequence. AWS-wrap, AWS, S3, concurrency, deadlock, starvation, Unable to execute HTTP request: Timeout waiting for connection from pool"
 	}
 }
