@@ -3226,6 +3226,10 @@ Ordered some pizza for lunch and dinner. Delicious.
 Had breakfast at a crepe place with a friend and then had Sashimi for
 dinner.
 
+### Day 536
+
+Soylent for lunch and then for dinner I had leftover pizza.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
