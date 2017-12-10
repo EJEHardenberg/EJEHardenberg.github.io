@@ -3255,6 +3255,11 @@ brisket after traveling in a plane for the day.
 For lunch I had asian food with some friends, donburi! And then for
 dinner I had a bunch of vegan cookies I baked with my friend.
 
+### Day 542 
+
+For lunch I had Buffalo Wild Wings and then for dinner I had some pizza.
+I'm still traveling so, no soylent for me.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
