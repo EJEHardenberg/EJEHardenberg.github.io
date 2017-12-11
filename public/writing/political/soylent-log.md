@@ -3260,6 +3260,12 @@ dinner I had a bunch of vegan cookies I baked with my friend.
 For lunch I had Buffalo Wild Wings and then for dinner I had some pizza.
 I'm still traveling so, no soylent for me.
 
+### Day 543 
+
+Breakfast had eggs on toast, then I had mediterrean food for lunch with
+my vegan friend. Then after a long plane ride home I had some soylent
+for dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
