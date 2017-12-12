@@ -3266,6 +3266,10 @@ Breakfast had eggs on toast, then I had mediterrean food for lunch with
 my vegan friend. Then after a long plane ride home I had some soylent
 for dinner.
 
+### Day 544 
+
+Soylent for lunch, and also for dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
