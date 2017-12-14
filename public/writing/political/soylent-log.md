@@ -3275,6 +3275,12 @@ Soylent for lunch, and also for dinner.
 Soylent for lunch, and then for dinner I had brocolli cheddar soup from
 Panera with a half sandwich. 
 
+### Day 546 
+
+Soylent for lunch. Then had a holiday party after work to go to, so went
+there and had sushi, mini cheeseburgers, scallops, all sorts of tiny
+little finger foods for dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
