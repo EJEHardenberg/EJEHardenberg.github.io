@@ -3281,6 +3281,11 @@ Soylent for lunch. Then had a holiday party after work to go to, so went
 there and had sushi, mini cheeseburgers, scallops, all sorts of tiny
 little finger foods for dinner.
 
+### Day 547 
+
+Breakfast sandwich for breakfast, then for lunch had soylent and then
+for dinner I got asian food which was good. Sashimi is the best.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
