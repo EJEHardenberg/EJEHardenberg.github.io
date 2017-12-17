@@ -3286,6 +3286,12 @@ little finger foods for dinner.
 Breakfast sandwich for breakfast, then for lunch had soylent and then
 for dinner I got asian food which was good. Sashimi is the best.
 
+### Day 548 
+
+For breakfast I had some tea, and then for lunch I ate pizza rolls. Then
+for dinner I was over at another holiday party so I had shrimp, cookies,
+and random little things.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
