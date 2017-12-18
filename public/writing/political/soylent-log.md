@@ -3292,6 +3292,12 @@ For breakfast I had some tea, and then for lunch I ate pizza rolls. Then
 for dinner I was over at another holiday party so I had shrimp, cookies,
 and random little things.
 
+### Day 549 
+
+For breakfast/brunch I had a crepe with chicken and gravy that was
+really good. Then for dinner I had Panera before going and seeing the
+awful that was the new star wars movie.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
