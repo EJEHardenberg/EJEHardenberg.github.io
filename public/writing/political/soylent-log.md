@@ -3313,6 +3313,12 @@ Soylent for lunch as well as some chicken cordon bleu balls from the
 local market, cheese sticks, and a couple of wings. Then for dinner I
 had sweet and sour chicken.
 
+### Day 553
+
+Ate pizza rolls for breakfast, then for lunch I had a steak at the 99
+that tasted more like a hamburger, then for dinner I had wings with
+friends at a pub.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
