@@ -3319,6 +3319,13 @@ Ate pizza rolls for breakfast, then for lunch I had a steak at the 99
 that tasted more like a hamburger, then for dinner I had wings with
 friends at a pub.
 
+### Day 554 
+
+I'm home now for the holiday, well, been home for one full day so far.
+For breakfast today I had waffles with syrup that my boss gave me, and
+then for lunch I had bratwurst and potatoes which was great. Then for
+dinner I had a steak and vegi's at a texas roadhouse.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
