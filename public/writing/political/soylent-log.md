@@ -3326,6 +3326,12 @@ For breakfast today I had waffles with syrup that my boss gave me, and
 then for lunch I had bratwurst and potatoes which was great. Then for
 dinner I had a steak and vegi's at a texas roadhouse.
 
+### Day 555 
+
+Palendrome day! Yay! 
+Today I had some Cheerios and then taco bell for lunch. Then for dinner
+I had wings and breadsticks from little ceasers.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
