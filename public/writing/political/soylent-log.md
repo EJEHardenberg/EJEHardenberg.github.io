@@ -3356,6 +3356,11 @@ Went shopping today with my friend Panda. I had spaghetti before hand
 and then had some Chic filet later on. Then for dinner while hanging out
 with two other friends I had pizza hut. Good old stuffed crust!
 
+### Day 560 
+
+Had some popcorn while taking my parents out to a movie, then for lunch
+I had a sub and some fries. Then for dinner I had wings.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
