@@ -3366,6 +3366,11 @@ I had a sub and some fries. Then for dinner I had wings.
 Today I had some cheerios for breakfast, then a small buffalo chicken
 pizza for lunch. Then for dinner I had some taco bell with a friend.
 
+### Day 562 
+
+Taco bell for lunch, then a drive back home and followed up by ramen for
+dinner.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
