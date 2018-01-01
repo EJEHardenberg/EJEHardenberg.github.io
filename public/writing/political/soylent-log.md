@@ -3371,6 +3371,12 @@ pizza for lunch. Then for dinner I had some taco bell with a friend.
 Taco bell for lunch, then a drive back home and followed up by ramen for
 dinner.
 
+### Day 563 
+
+Eggs for breakfast, though it was a little late so it somewhat counted
+as lunch as well. Then we had pizza for dinner which was nice and then
+rang in the new year.
+
 [release notes for v1.6]:http://files.soylent.com/pdf/soylent-release-notes-1-6-en.pdf
 [this blog post about it]:http://fourhourworkweek.com/2013/08/20/soylent/
 [this guy]:http://robrhinehart.com/
