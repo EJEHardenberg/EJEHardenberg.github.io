@@ -1,4 +1,9 @@
 {
+	"tolerated" : {
+		"title" : "Tolerated",
+		"date" : "2018-01-04",
+		"freq" : "monthly"
+	},
 	"highways" : {
 		"title" : "Highways",
 		"date" : "2017-11-15",
