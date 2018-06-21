@@ -1,4 +1,9 @@
 {
+	"confession" : {
+		"title" : "Confession",
+		"date" : "2018-06-21",
+		"freq" : "monthly"
+	},
 	"tolerated" : {
 		"title" : "Tolerated",
 		"date" : "2018-01-04",
