@@ -16,8 +16,8 @@ stretched on a canvas that I once felt akin
 to my aches and my body that just don't quite fit  
 I'll stare into the dark and then look back in    
 In this moment of solitude, of feeling for once  
-An assessment is made. A heart is renounced.
-Is that what was needed? Sad lonely reflection?  
+An assessment is made. A heart is renounced.  
+Is that what was needed? Sad lonely reflection?    
 What good does it do? This quiet confession.
 
 
