@@ -4,6 +4,11 @@
 		"date" : "2019-03-07",
 		"freq" : "monthly"
 	},
+	"forest" : {
+		"title" : "Forest",
+		"date" : "2019-02-25",
+		"freq" "monthly"
+	},
 	"confession" : {
 		"title" : "Confession",
 		"date" : "2018-06-21",
