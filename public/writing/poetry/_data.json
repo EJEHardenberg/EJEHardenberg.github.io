@@ -7,7 +7,7 @@
 	"forest" : {
 		"title" : "Forest",
 		"date" : "2019-02-25",
-		"freq" "monthly"
+		"freq": "monthly"
 	},
 	"confession" : {
 		"title" : "Confession",
