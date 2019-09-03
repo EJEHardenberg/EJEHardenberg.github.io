@@ -1,4 +1,9 @@
 {
+	"hill" : { 
+		"title" : "Hill",
+		"date" : "2019-09-02",
+		"freq" : "monthly"
+	},
 	"andI" : {
 		"title" : "And I",
 		"date" : "2019-03-07",
