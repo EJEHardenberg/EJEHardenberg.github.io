@@ -1,4 +1,9 @@
 {
+	"sleepytown" : {
+		"title" : "Sleepy Town",
+		"date" : "2020-02-15",
+		"freq" : " monthly"
+	},
 	"hill" : { 
 		"title" : "Hill",
 		"date" : "2019-09-02",
